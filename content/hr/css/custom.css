@@ -1,0 +1,114 @@
+.button_label{
+    background-color: #090440;
+}
+
+.font__topbar{
+    font-size: 11px;
+}
+
+.rota-horizontal{
+    -webkit-transform: scaleX(-1);
+    -moz-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: "FlipH";
+}
+
+.logo{
+    width: 300px;
+    vertical-align: middle;
+}
+
+.clients{
+    padding-top:30px; 
+    text-align:center;
+}
+
+.text__second--size{
+    font-size: 10px;
+    line-height: 15px;
+    color: #002333;
+}
+
+.our-team__title{
+    color: #3498DB
+}
+
+.title__blue{
+    color: #3498DB
+}
+
+.text__secons--section{
+    color: #002333;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.float__right{
+    float: right;
+}
+
+.button_second--section{
+    background-color: #3498DB;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    #menu {  text-align: left;
+    font-size: 11px;
+   
+    }
+    #menu ul { list-style-type: none;}
+    
+    #menu ul li a {display: block;
+    text-decoration: none;
+    color: #fff;
+    
+    
+    
+    
+    }
+    #menu ul li:hover {position: left;
+    }
+    #menu ul li a:hover, #menu ul li:hover a.nivel1 {
+    color: #000;
+    position: center;
+    }
+    #menu ul li a.nivel1 {display: block!important;display: none;
+    position: center;
+    }
+    #menu ul li ul {display: none;
+    }
+    #menu ul li a:hover ul, #menu ul li:hover ul {display: block;
+    position: absolute;left: 0px;
+    }
+    #menu ul li ul li a {width: 90px;
+    padding: 6px 0px 8px 0px;
+    border-top-color: #000;
+    }
+    #menu ul li ul li a:hover {border-top-color: #000;
+    position: relative;
+    }
+    table.falsa {border-collapse:collapse;
+    border:0px;
+    float: left;
+    
+    }
+
+    .drop_menu{
+        background-color: #3498DB;
+        opacity: 0.9;
+        width: 120px;
+        color: #fff
+    }
